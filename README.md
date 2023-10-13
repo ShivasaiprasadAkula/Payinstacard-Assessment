@@ -12,7 +12,7 @@ The project provides a simple folder structure for clarity and maintainability.
 - Access to protected routes with a valid JWT
 - Secure storage of user data with bcrypt password hashing
 
-# Packges
+# Packages
 - npm install express
 - npm install nodemon
 - npm install mongoose
